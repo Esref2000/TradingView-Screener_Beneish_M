@@ -3535,6 +3535,7 @@ COLUMNS = {
     'working_capital_fq': 'working_capital_fq',
     'yield_recent': 'yield_recent',
     'yield_upcoming': 'yield_upcoming',
+    'BENEISH_M_SCORE': 'BENEISH_M_SCORE',
 }
 
 """
