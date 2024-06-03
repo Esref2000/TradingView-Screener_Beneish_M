@@ -135,7 +135,7 @@ COLUMNS = {
     '3-Month High': 'High.3M',
     '6-Month High': 'High.6M',
     'All Time High': 'High.All',
-    'Hull Moving Average (9)': 'HullMA9',
+    'Hull Moving Average (15)': 'HullMA15',
     'Ichimoku Base Line (9, 26, 52, 26)': 'Ichimoku.BLine',
     'Ichimoku Conversion Line (9, 26, 52, 26)': 'Ichimoku.CLine',
     'Ichimoku Leading Span A (9, 26, 52, 26)': 'Ichimoku.Lead1',
