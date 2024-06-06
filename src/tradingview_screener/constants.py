@@ -16,7 +16,7 @@ HEADERS = {
     'sec-fetch-mode': 'cors',
     'sec-fetch-dest': 'empty',
     'referer': 'https://www.tradingview.com/',
-    'accept-language': 'en-US,en;q=0.9,it;q=0.8',
+    'accept-language': 'tr-TR,tr;q=0.9,it;q=0.8',
 }
 DEFAULT_API_SETTINGS = {
     'filter': [
@@ -24,7 +24,7 @@ DEFAULT_API_SETTINGS = {
         {'left': 'subtype', 'operation': 'in_range', 'right': ['common', 'foreign-issuer']},
         {'left': 'exchange', 'operation': 'in_range', 'right': ['AMEX', 'NASDAQ', 'NYSE']},
     ],
-    'options': {'lang': 'en'},
+    'options': {'lang': 'tr'},
     'markets': ['america'],
     'symbols': {'query': {'types': []}, 'tickers': []},
     'columns': ['name', 'close', 'volume', 'market_cap_basic'],
